@@ -3,7 +3,7 @@
   - `isfolder()`, `makefolder()` & `delfolder()`
   - `isfile()`, `writefile()` & `delfile()`
   - `getgenv()`
-  - `syn.queue_on_teleport()` / `queue_on_teleport()`
+  - `queue_on_teleport()`
   - `Drawing`
 * This script will store your changed settings every 10 seconds passed. You can also disable this feature: 
 ```lua
