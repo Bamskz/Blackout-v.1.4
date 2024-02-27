@@ -9,7 +9,6 @@
 ```lua
 getgenv().Aimbot.Settings.SaveSettings = false
 ```
-* This script is indeed universal, but it might not run on games with specific character constructions (custom characters).
 * A recommended exploit to run this script on is [Krampus/RO-EXEC](https://loader.live).
 ## Environment
 The script's environment is stored as:
